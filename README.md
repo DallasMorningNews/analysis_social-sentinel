@@ -1,1 +1,2 @@
-# social_sentinel_analysis
+# Social Sentinel
+ Analysis code for investigative series on Social Sentinel.

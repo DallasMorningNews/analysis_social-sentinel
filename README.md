@@ -39,9 +39,9 @@ These findings were a culmination of the reporting we did in the 2021-2022 schoo
 
 Our findings memo served as the spine of the project and allowed us to spend less time footnoting the drafts. Each story went through several rounds of revisions from the investigations editor, managing editor and executive editor of _The News_. The story text and reporting material were also reviewed by _The News’_ attorney.
 
-If you haven’t already, we’d encourage you to read our stories at _The Dallas Morning News_ here: https://interactives.dallasnews.com/2022/social-sentinel/
-
-https://interactives.dallasnews.com/2022/the-black-box-social-sentinel/.
+If you haven’t already, we’d encourage you to read our stories at _The Dallas Morning News_ here: 
+- https://interactives.dallasnews.com/2022/social-sentinel/
+- https://interactives.dallasnews.com/2022/the-black-box-social-sentinel/.
 
 The text of the stories is also available without a paywall on the Pulitzer Center website. 
 
